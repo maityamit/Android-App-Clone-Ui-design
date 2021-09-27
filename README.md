@@ -9,7 +9,7 @@ Android App clone application 📱 built using XML in Android Studio
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](Instagram%20Clone/insta.jpg) | ![Imgur](Instagram%20Clone/insta.jpg) | ![Imgur](Instagram%20Clone/insta.jpg) |
+| ![Imgur](Instagram%20Clone/insta.jpg) | ![Imgur](WhatsApp%20Clone/whatsapp.jpg) | ![Imgur](Instagram%20Clone/insta.jpg) |
 
 
 
