@@ -1,5 +1,5 @@
 # Android App Clone Design
-Android App clone application 📱 built using XML in Android Studio
+Various Android App clone UI 📱 built using XML in Android Studio.
 
 
 ## ⚙️ Technology Used
