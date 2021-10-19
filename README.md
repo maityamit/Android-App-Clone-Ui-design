@@ -9,7 +9,7 @@ Various Android App clone UI 📱 built using XML in Android Studio.
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](Instagram%20Clone/insta.jpg) | ![Imgur](WhatsApp%20Clone/whatsapp.jpg) | ![Imgur](Instagram%20Clone/insta.jpg) |
+| ![Imgur](Instagram%20Clone/insta.jpg) | ![Imgur](WhatsApp%20Clone/whatsapp.jpg) | ![Imgur](IXIGO%20Rail%20Clone/hello_ixigo.jpg) |
 
 
 
